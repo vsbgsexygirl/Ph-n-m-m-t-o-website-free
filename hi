@@ -1,0 +1,69 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am smsonline on github.
+  * I am vsbgsexygirl (https://keybase.io/vsbgsexygirl) on keybase.
+  * I have a public key ASAQbluS9r6C2GsQqnzRkFwmvSdl1u_rP0nfPS0q94Jf7go
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120106e5b92f6be82d86b10aa7cd1905c26bd2765d6efeb3f49df3d2d2af7825fee0a",
+      "host": "keybase.io",
+      "kid": "0120106e5b92f6be82d86b10aa7cd1905c26bd2765d6efeb3f49df3d2d2af7825fee0a",
+      "uid": "6c9e17cb5ff9ac9d6f3de9ed1ffb0619",
+      "username": "vsbgsexygirl"
+    },
+    "merkle_root": {
+      "ctime": 1600465841,
+      "hash": "55d920be458baab69627cda4113f0429c5f91f1259a493e88752d87529aa0a4a1acd436fcc15948177f69f1282b6d0e42d491a43098b81be66fee75f5f56aa40",
+      "hash_meta": "b30016a97d334c4b7026fb6efc0df0088efa742c0337a059d63a30db37ffcaf9",
+      "seqno": 17608778
+    },
+    "service": {
+      "entropy": "QJ5uhEcUtQW7nwD6O60fKKVd",
+      "name": "github",
+      "username": "smsonline"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1600465851,
+  "expire_in": 504576000,
+  "prev": "49a41d088580ad623cf799e767d7bc1bb4219f654ea5ea1b8b9d0e21512dd25e",
+  "seqno": 13,
+  "tag": "signature"
+}
+```
+
+with the key [ASAQbluS9r6C2GsQqnzRkFwmvSdl1u_rP0nfPS0q94Jf7go](https://keybase.io/vsbgsexygirl), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgEG5bkva+gthrEKp80ZBcJr0nZdbv6z9J3z0tKveCX+4Kp3BheWxvYWTESpcCDcQgSaQdCIWArWI895nnZ9e8G7Qhn2VOpeobi50OIVEt0l7EIBQJ2WVsVmyu23F0JwzpVB3rqBNNWyziKH2gLoxK/PdiAgHCo3NpZ8RA3bw//VXFIC/svjj6u5jmN6A5zLQIk1sSGhcPSkODsae5XdsWoZdVOzpfxlwq74duFkBXdx+jufqCA6VHY036DqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILGOqnFOoTmpm/0H3VOC1hSFgwoIqM0bQhzkw/EsoYKHo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/vsbgsexygirl
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id vsbgsexygirl
+```
+
+
